@@ -1,8 +1,6 @@
 datasets/*
 
-yolov8-object-detection
-yolov8n-seg.pt
-yolov8n.pt
+models/*
 
 wandb
 runs/*
